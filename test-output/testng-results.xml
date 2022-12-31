@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-31T16:29:56 IST" name="Default suite" finished-at="2022-12-31T16:30:06 IST" duration-ms="9713">
+    <groups>
+    </groups>
+    <test started-at="2022-12-31T16:29:56 IST" name="Default test" finished-at="2022-12-31T16:30:06 IST" duration-ms="9713">
+      <class name="com.practiceSelenium.TC02_VerifyTable">
+        <test-method signature="verifyTable()[pri:0, instance:com.practiceSelenium.TC02_VerifyTable@6bd61f98]" started-at="2022-12-31T16:29:56 IST" name="verifyTable" finished-at="2022-12-31T16:30:06 IST" duration-ms="9667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTable -->
+      </class> <!-- com.practiceSelenium.TC02_VerifyTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
