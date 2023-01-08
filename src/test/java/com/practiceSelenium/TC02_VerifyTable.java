@@ -9,13 +9,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class TC02_VerifyTable {
 	
 	
     @Test
 	public void verifyTable() {
 			
-     System.setProperty("webdriver.chrome.driver","D:\\Software\\chromedriver.exe");
+     WebDriverManager.chromedriver().setup();
      WebDriver driver=new ChromeDriver();
      driver.manage().window().maximize();
      driver.get("https://selectorshub.com/xpath-practice-page/");

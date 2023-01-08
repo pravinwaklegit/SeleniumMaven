@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-31T16:31:34 IST" name="Suite" finished-at="2022-12-31T16:32:12 IST" duration-ms="38382">
+  <suite started-at="2023-01-08T21:38:50 IST" name="Suite" finished-at="2023-01-08T21:39:17 IST" duration-ms="26769">
     <groups>
     </groups>
-    <test started-at="2022-12-31T16:31:34 IST" name="Test" finished-at="2022-12-31T16:32:12 IST" duration-ms="38382">
+    <test started-at="2023-01-08T21:38:50 IST" name="Test" finished-at="2023-01-08T21:39:17 IST" duration-ms="26769">
       <class name="com.practiceSelenium.TC03_LoginWithHM">
-        <test-method signature="LoginWithHM()[pri:0, instance:com.practiceSelenium.TC03_LoginWithHM@5677323c]" started-at="2022-12-31T16:32:04 IST" name="LoginWithHM" finished-at="2022-12-31T16:32:12 IST" duration-ms="8182" status="PASS">
+        <test-method signature="LoginWithHM()[pri:0, instance:com.practiceSelenium.TC03_LoginWithHM@1c7696c6]" started-at="2023-01-08T21:39:09 IST" name="LoginWithHM" finished-at="2023-01-08T21:39:17 IST" duration-ms="7461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginWithHM -->
       </class> <!-- com.practiceSelenium.TC03_LoginWithHM -->
       <class name="com.practiceSelenium.TC02_VerifyTable">
-        <test-method signature="verifyTable()[pri:0, instance:com.practiceSelenium.TC02_VerifyTable@537f60bf]" started-at="2022-12-31T16:31:56 IST" name="verifyTable" finished-at="2022-12-31T16:32:04 IST" duration-ms="7915" status="PASS">
+        <test-method signature="verifyTable()[pri:0, instance:com.practiceSelenium.TC02_VerifyTable@6c1a5b54]" started-at="2023-01-08T21:39:04 IST" name="verifyTable" finished-at="2023-01-08T21:39:09 IST" duration-ms="5409" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTable -->
       </class> <!-- com.practiceSelenium.TC02_VerifyTable -->
       <class name="com.practiceSelenium.TC01_Login">
-        <test-method signature="Login_test()[pri:0, instance:com.practiceSelenium.TC01_Login@4f80542f]" started-at="2022-12-31T16:31:34 IST" name="Login_test" finished-at="2022-12-31T16:31:56 IST" duration-ms="22223" status="PASS">
+        <test-method signature="Login_test()[pri:0, instance:com.practiceSelenium.TC01_Login@5824a83d]" started-at="2023-01-08T21:38:50 IST" name="Login_test" finished-at="2023-01-08T21:39:04 IST" duration-ms="13850" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_test -->

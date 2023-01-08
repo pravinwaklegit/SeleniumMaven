@@ -8,6 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class TC03_LoginWithHM {
 	
 	
@@ -22,7 +24,7 @@ public class TC03_LoginWithHM {
 	@Test
 	public void LoginWithHM() throws InterruptedException {
 		
-		System.setProperty("webdriver.chrome.driver", "D:\\Software\\chromedriver.exe");
+		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver=new ChromeDriver();
 		
