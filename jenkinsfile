@@ -19,8 +19,6 @@ stage('Test')
     bat "mvn test"
     }  
 }
-
-
 stage('Compile')
 {
     steps{
@@ -37,7 +35,5 @@ stage('Deploy')
     }
     
 }
-    
 }
-
 }
